@@ -1,2 +1,2 @@
 # EDA-on-sports-dataset
-ongoing
+This repository contains the data visualization of the IPL dataset 
